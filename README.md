@@ -42,17 +42,17 @@
 ✔ Inventory, Sales, Purchase  
 ✔ Financial Reports (P&L, Balance Sheet)  
 
-![ERP](./ERP system.png)
+![ERP](./ERPsystem.png)
 
 ### 🧑‍💼 Manpower SaaS
 ✔ Multi-tenant platform  
 ✔ Candidate privacy system  
-![SaaS](./Manpower SaaS dashboard overview.png)
+![SaaS](./ManpowerSaaSdashboardoverview.png)
 
 ### 🍽️ Restaurant POS
 ✔ QR Ordering + KOT  
 ✔ Billing + Cash Control  
-![POS](./Restaurant POS.png)
+![POS](./RestaurantPOS.png)
 
 ## 🛠 Tech Stack
 
